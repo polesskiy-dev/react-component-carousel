@@ -1,0 +1,11 @@
+{
+  "name": "react-component-carousel",
+  "version": "0.0.1",
+  "description": "Simpe and easy to use react component carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "polesskiy",
+  "license": "ISC"
+}
